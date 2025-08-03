@@ -1,0 +1,42 @@
+_wandb:
+    value:
+        cli_version: 0.21.0
+        e:
+            wslgw2yd70skv3kyapzkr4nxct08b960:
+                codePath: train.py
+                codePathLocal: train.py
+                email: 232104@iiitt.ac.in
+                executable: /Users/vighneshms/Downloads/Virtual Environments/ar/bin/python3
+                git:
+                    commit: 30c28641aad6cac9ed253a901f60330ea060c6e7
+                    remote: https://github.com/Vighnesh-M-S/UNet_Model.git
+                host: VIGHNESHsLaptop.lan
+                os: macOS-14.2-arm64-arm-64bit-Mach-O
+                program: /Users/vighneshms/Downloads/UNet_Model/train.py
+                python: CPython 3.13.4
+                root: /Users/vighneshms/Downloads/UNet_Model
+                startedAt: "2025-08-03T11:31:09.174758Z"
+                writerId: wslgw2yd70skv3kyapzkr4nxct08b960
+        m: []
+        python_version: 3.13.4
+        t:
+            "1":
+                - 1
+                - 41
+                - 105
+            "2":
+                - 1
+                - 41
+                - 105
+            "3":
+                - 19
+            "4": 3.13.4
+            "5": 0.21.0
+            "12": 0.21.0
+            "13": darwin-arm64
+batch_size:
+    value: 8
+epochs:
+    value: 25
+lr:
+    value: 0.001
