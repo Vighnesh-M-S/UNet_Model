@@ -1,0 +1,36 @@
+{"time":"2025-08-06T21:56:53.831329+05:30","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-08-06T21:56:54.353472+05:30","level":"INFO","msg":"stream: created new stream","id":"lnp4lklx"}
+{"time":"2025-08-06T21:56:54.353508+05:30","level":"INFO","msg":"stream: started","id":"lnp4lklx"}
+{"time":"2025-08-06T21:56:54.353515+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lnp4lklx"}
+{"time":"2025-08-06T21:56:54.353686+05:30","level":"INFO","msg":"sender: started","stream_id":"lnp4lklx"}
+{"time":"2025-08-06T21:56:54.35382+05:30","level":"INFO","msg":"handler: started","stream_id":"lnp4lklx"}
+{"time":"2025-08-06T22:07:01.319836+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.31.115:51820->35.186.228.49:443: read: can't assign requested address"}
+{"time":"2025-08-06T22:07:01.319834+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.31.115:51820->35.186.228.49:443: read: can't assign requested address"}
+{"time":"2025-08-06T22:07:33.645096+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-08-06T22:07:33.649427+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:07:46.902016+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/232104-iiit-trichy/color-polygon-unet/lnp4lklx/file_stream\": dial tcp 35.186.228.49:443: connect: operation timed out"}
+{"time":"2025-08-06T22:08:07.690489+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-08-06T22:08:07.690593+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/232104-iiit-trichy/color-polygon-unet/lnp4lklx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:08:07.690786+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:08:41.716218+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:08:41.716216+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/232104-iiit-trichy/color-polygon-unet/lnp4lklx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:08:41.716254+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:09:20.522344+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:09:20.522408+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/232104-iiit-trichy/color-polygon-unet/lnp4lklx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:09:20.522402+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:10:09.061393+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:10:09.061393+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/232104-iiit-trichy/color-polygon-unet/lnp4lklx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:10:09.061418+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:11:16.810916+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:11:16.810916+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:11:16.810916+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/232104-iiit-trichy/color-polygon-unet/lnp4lklx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:12:18.525451+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:12:18.525451+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:12:18.52551+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/232104-iiit-trichy/color-polygon-unet/lnp4lklx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-08-06T22:13:19.532125+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/prediction_32_eb15c69bac013587b0bc.png","runtime_seconds":0.077745084},{"desc":"uploading media/images/target_32_7d98bd5cbabda2dac799.png","runtime_seconds":0.076789125},{"desc":"uploading media/images/input_mask_32_5f4a4bb49879786a193b.png","runtime_seconds":0.076773958},{"desc":"uploading history steps 32-32, console lines 32-32","runtime_seconds":0.046023458},{"desc":"updating run metadata","runtime_seconds":0.039073834}],"total_operations":5}}
+{"time":"2025-08-06T22:13:21.186137+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-08-06T22:13:21.675696+05:30","level":"INFO","msg":"stream: closing","id":"lnp4lklx"}
+{"time":"2025-08-06T22:13:21.675873+05:30","level":"INFO","msg":"handler: closed","stream_id":"lnp4lklx"}
+{"time":"2025-08-06T22:13:21.675943+05:30","level":"INFO","msg":"sender: closed","stream_id":"lnp4lklx"}
+{"time":"2025-08-06T22:13:21.676035+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lnp4lklx"}
+{"time":"2025-08-06T22:13:21.676523+05:30","level":"INFO","msg":"stream: closed","id":"lnp4lklx"}

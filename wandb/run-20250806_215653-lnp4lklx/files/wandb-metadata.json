@@ -1,0 +1,37 @@
+{
+  "os":  "macOS-14.2-arm64-arm-64bit-Mach-O",
+  "python":  "CPython 3.13.4",
+  "startedAt":  "2025-08-06T16:26:53.574899Z",
+  "program":  "/Users/vighneshms/Downloads/UNet_Model/scripts/train.py",
+  "codePath":  "scripts/train.py",
+  "codePathLocal":  "scripts/train.py",
+  "git":  {
+    "remote":  "https://github.com/Vighnesh-M-S/UNet_Model.git",
+    "commit":  "eb8abcd2e329d501486d7dcf9b6d28518d2d3979"
+  },
+  "email":  "232104@iiitt.ac.in",
+  "root":  "/Users/vighneshms/Downloads/UNet_Model",
+  "host":  "VIGHNESHsLaptop.lan",
+  "executable":  "/Users/vighneshms/Downloads/Virtual Environments/ar/bin/python3",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "238702723072"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "apple":  {
+    "name":  "Apple M2",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  8,
+    "memoryGb":  8,
+    "swapTotalBytes":  "6442450944",
+    "ramTotalBytes":  "8589934592"
+  },
+  "writerId":  "dd5advkjzi52xcv94s3lm9ch70q8o6m7"
+}

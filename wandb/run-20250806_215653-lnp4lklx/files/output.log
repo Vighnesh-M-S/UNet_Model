@@ -1,0 +1,55 @@
+Epoch [1/50], Loss: 0.2027
+Epoch [2/50], Loss: 0.1642
+Epoch [3/50], Loss: 0.1397
+Epoch [4/50], Loss: 0.1293
+Epoch [5/50], Loss: 0.1118
+Epoch [6/50], Loss: 0.0978
+Epoch [7/50], Loss: 0.0862
+Epoch [8/50], Loss: 0.0766
+Epoch [9/50], Loss: 0.0734
+Epoch [10/50], Loss: 0.0631
+✅ Model saved to checkpoints/color_polygon_unet.pth
+Epoch [11/50], Loss: 0.0556
+Epoch [12/50], Loss: 0.0553
+Epoch [13/50], Loss: 0.0466
+Epoch [14/50], Loss: 0.0487
+Epoch [15/50], Loss: 0.0467
+Epoch [16/50], Loss: 0.0455
+Epoch [17/50], Loss: 0.0443
+Epoch [18/50], Loss: 0.0466
+Epoch [19/50], Loss: 0.0431
+Epoch [20/50], Loss: 0.0438
+✅ Model saved to checkpoints/color_polygon_unet.pth
+Epoch [21/50], Loss: 0.0366
+Epoch [22/50], Loss: 0.0404
+Epoch [23/50], Loss: 0.0425
+Epoch [24/50], Loss: 0.0353
+Epoch [25/50], Loss: 0.0393
+Epoch [26/50], Loss: 0.0323
+Epoch [27/50], Loss: 0.0298
+Epoch [28/50], Loss: 0.0267
+Epoch [29/50], Loss: 0.0419
+Epoch [30/50], Loss: 0.0318
+✅ Model saved to checkpoints/color_polygon_unet.pth
+Epoch [31/50], Loss: 0.0336
+Epoch [32/50], Loss: 0.0228
+Epoch [33/50], Loss: 0.0220
+Epoch [34/50], Loss: 0.0245
+Epoch [35/50], Loss: 0.0248
+Epoch [36/50], Loss: 0.0192
+Epoch [37/50], Loss: 0.0172
+Epoch [38/50], Loss: 0.0156
+Epoch [39/50], Loss: 0.0196
+Epoch [40/50], Loss: 0.0174
+✅ Model saved to checkpoints/color_polygon_unet.pth
+Epoch [41/50], Loss: 0.0135
+Epoch [42/50], Loss: 0.0129
+Epoch [43/50], Loss: 0.0161
+Epoch [44/50], Loss: 0.0118
+Epoch [45/50], Loss: 0.0087
+Epoch [46/50], Loss: 0.0088
+Epoch [47/50], Loss: 0.0074
+Epoch [48/50], Loss: 0.0064
+Epoch [49/50], Loss: 0.0093
+Epoch [50/50], Loss: 0.0079
+✅ Model saved to checkpoints/color_polygon_unet.pth

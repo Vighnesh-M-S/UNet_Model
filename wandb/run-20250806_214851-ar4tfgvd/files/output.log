@@ -1,0 +1,21 @@
+Epoch [1/50], Loss: 0.2090
+Epoch [2/50], Loss: 0.1663
+Epoch [3/50], Loss: 0.1390
+Epoch [4/50], Loss: 0.1230
+Epoch [5/50], Loss: 0.1131
+Epoch [6/50], Loss: 0.0936
+Epoch [7/50], Loss: 0.0879
+Epoch [8/50], Loss: 0.0826
+Epoch [9/50], Loss: 0.0695
+Epoch [10/50], Loss: 0.0647
+Traceback (most recent call last):
+  File "/Users/vighneshms/Downloads/UNet_Model/scripts/train.py", line 81, in <module>
+    "input_mask": [wandb.Image(sample_input[0][0].cpu(), caption="Input Mask")],
+                   ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vighneshms/Downloads/Virtual Environments/ar/lib/python3.13/site-packages/wandb/sdk/data_types/image.py", line 266, in __init__
+    self._initialize_from_data(data_or_path, mode, file_type, normalize)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vighneshms/Downloads/Virtual Environments/ar/lib/python3.13/site-packages/wandb/sdk/data_types/image.py", line 406, in _initialize_from_data
+    data = data.permute(1, 2, 0).cpu().numpy()  # type: ignore [union-attr]
+           ~~~~~~~~~~~~^^^^^^^^^
+RuntimeError: permute(sparse_coo): number of dimensions in the tensor input does not match the length of the desired ordering of dimensions i.e. input.dim() = 2 is not equal to len(dims) = 3
